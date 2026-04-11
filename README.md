@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divypatel-tech
-- 👀 I’m interested in web designing 
+- 👀 I’m interested in network engineering
 - 🌱 I’m currently learning computer engineering
 - 😄 Pronouns: hindi, gujrati,english 
 
